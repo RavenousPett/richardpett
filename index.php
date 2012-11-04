@@ -86,10 +86,14 @@
                 <div class="row">
                     <div class="span4">
                         <h1>Skill Set</h1>
-                        <p class="bold">This site is all about getting to know me and my work. So get stuck in and discover what
-                            I can do!</p>
-                        <p>I'm a web developer with a passion for clean and robust code. I love creating things, problem solving and the satisfaction
-                            that comes from learning and applying new technologies. </p>
+                        <p class="bold">My entire skillset at a glance! Big and bold = one of stronger skils, small and pale = I've had some exposure to this.</p>
+                        <p>After graduating from the University of Southampton I went into application development (in flight entertainment
+                            systems to be specific!) which gave me a grounding in JavaScript, best coding practices, linux command line and
+                            industry standard tools for version control and bug trackng.</p>
+
+                            <p>Moving on I threw myself into web development which has given me a vast skillset including HTML, CSS, PHP, CMSs, domains and DNS, JQuery, Social Media APIs, design, Photoshop, etc etc.</p>
+
+                            <p>I now want to futher my skills and get involved in creating exiting mobile and web applications.</p>
                     </div>
                     <div class="span8">
 
