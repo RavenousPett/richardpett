@@ -95,7 +95,7 @@ p{
 }
 
 #htmltagcloud{
-	line-height:33px;
+	line-height:55px;
 	word-spacing:normal;
 	letter-spacing:normal;
 	text-transform:none;
@@ -145,39 +145,41 @@ p{
 	background-color:#333333;
 }
 
-#htmltagcloud a:active{color:white;background-color:#03d}.wrd{padding:0;position:relative}.wrd a{text-decoration:none}
+#htmltagcloud a{text-decoration:none}
 
-.tagcloud0{font-size:14px;color:#a4a5a7;z-index:10}
+/*a:active{color:white;background-color:#48ff00}.wrd{padding:0;position:relative}.wrd*/
+
+.tagcloud0{font-size:17px;color:#a4a5a7;z-index:10}
 .tagcloud0 a{color:#a4a5a7}
 
-.tagcloud1{font-size:16px;color:#999999;z-index:9}
+.tagcloud1{font-size:19px;color:#999999;z-index:9}
 .tagcloud1 a{color:#999999}
 
-.tagcloud2{font-size:19px;color:#808080;z-index:8}
+.tagcloud2{font-size:22px;color:#808080;z-index:8}
 .tagcloud2 a{color:#808080}
 
-.tagcloud3{font-size:21px;color:#6c6c6d;z-index:7}
+.tagcloud3{font-size:24px;color:#6c6c6d;z-index:7}
 .tagcloud3 a{color:#6c6c6d}
 
-.tagcloud4{font-size:24px;color:#5c5c5c;z-index:6}
+.tagcloud4{font-size:27px;color:#5c5c5c;z-index:6}
 .tagcloud4 a{color:#5c5c5c}
 
-.tagcloud5{font-size:27px;color:#4e4e4f;z-index:5}
+.tagcloud5{font-size:30px;color:#4e4e4f;z-index:5}
 .tagcloud5 a{color:#4e4e4f}
 
-.tagcloud6{font-size:29px;color:#434444;z-index:4}
+.tagcloud6{font-size:32px;color:#434444;z-index:4}
 .tagcloud6 a{color:#434444}
 
-.tagcloud7{font-size:31px;color:#323232;z-index:3}
+.tagcloud7{font-size:34px;color:#323232;z-index:3}
 .tagcloud7 a{color:#323232}
 
-.tagcloud8{font-size:34px;color:#1f1f1f;z-index:2}
+.tagcloud8{font-size:36px;color:#1f1f1f;z-index:2}
 .tagcloud8 a{color:#1f1f1f}
 
-.tagcloud9{font-size:37px;color:#0f0f0f;z-index:1}
+.tagcloud9{font-size:40px;color:#0f0f0f;z-index:1}
 .tagcloud9 a{color:#0f0f0f}
 
-.tagcloud10{font-size:41px;color:#000000;z-index:0}
+.tagcloud10{font-size:44px;color:#000000;z-index:0}
 .tagcloud10 a{color:#000000}
 
 .freq{font-size:10pt !important;color:#bbb}#credit{text-align:center;color:#333;margin-bottom:0.6em;font:0.7em 'lucida grande',trebuchet,'trebuchet ms',verdana,arial,helvetica,sans-serif}#credit a:link{color:#777;text-decoration:none}#credit a:visited{color:#777;text-decoration:none}#credit a:hover{color:white;background-color:#05f}#credit a:active{text-decoration:underline}// -->

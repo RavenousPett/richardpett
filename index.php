@@ -66,7 +66,7 @@
                             <h1>My Work</h1>
                             <p class="bold">This site is all about getting to know me and my work. So get stuck in and discover what
                                 I can do!</p>
-                            <p>I'm a web developer with a passion for clean and robust code. I love creating things, problem solving and the satisfaction
+                            <p>I'm a web developer with a passion for clean, robust code. I love creating things, problem solving and the satisfaction
                                 that comes from learning and applying new technologies. </p>
                         </div>
                     </div>
@@ -84,20 +84,50 @@
             <div class="container">    
 
                 <div class="row">
-                    <div class="span4">
+                    <div class="span5">
                         <h1>Skill Set</h1>
-                        <p class="bold">My entire skillset at a glance! Big and bold = one of stronger skils, small and pale = I've had some exposure to this.</p>
+                        <p class="bold">My entire skillset at a glance! Big and bold = one of my stronger skils, small and pale = I've had some exposure to this.</p>
                         <p>After graduating from the University of Southampton I went into application development (in flight entertainment
-                            systems to be specific!) which gave me a grounding in JavaScript, best coding practices, linux command line and
+                            systems to be specific!) which gave me a grounding in JavaScript, best coding practices, Linux command line and
                             industry standard tools for version control and bug trackng.</p>
 
-                            <p>Moving on I threw myself into web development which has given me a vast skillset including HTML, CSS, PHP, CMSs, domains and DNS, JQuery, Social Media APIs, design, Photoshop, etc etc.</p>
+                            <p>Moving on I threw myself into web development at a marketing agency, which has given me a vast skillset including HTML, CSS, PHP, frameworks, CMSs, domains and DNS, JQuery, Social Media APIs, design, Photoshop, etc etc.</p>
 
                             <p>I now want to futher my skills and get involved in creating exiting mobile and web applications.</p>
                     </div>
-                    <div class="span8">
+                    <div class="span7">
 
-                    <div id="htmltagcloud"> <span id="0" class="wrd tagcloud6"><a>ajax</a></span> <span id="1" class="wrd tagcloud0"><a>apache</a></span> <span id="2" class="wrd tagcloud6"><a>codeigniter</a></span> <span id="3" class="wrd tagcloud10"><a>css</a></span> <span id="4" class="wrd tagcloud6"><a>css3</a></span> <span id="5" class="wrd tagcloud3"><a>git</a></span> <span id="6" class="wrd tagcloud10"><a>html</a></span> <span id="7" class="wrd tagcloud4"><a>html5</a></span> <span id="8" class="wrd tagcloud0"><a>iis</a></span> <span id="9" class="wrd tagcloud10"><a>javascript</a></span> <span id="10" class="wrd tagcloud6"><a>joomla</a></span> <span id="11" class="wrd tagcloud10"><a>jquery</a></span> <span id="12" class="wrd tagcloud6"><a>json</a></span> <span id="13" class="wrd tagcloud3"><a>linux</a></span> <span id="14" class="wrd tagcloud6"><a>mvc</a></span> <span id="15" class="wrd tagcloud6"><a>mysql</a></span> <span id="16" class="wrd tagcloud6"><a>oop</a></span> <span id="17" class="wrd tagcloud7"><a>photoshop</a></span> <span id="18" class="wrd tagcloud10"><a>php</a></span> <span id="19" class="wrd tagcloud3"><a>rest</a></span> <span id="20" class="wrd tagcloud6"><a>seo</a></span> <span id="21" class="wrd tagcloud0"><a>soap</a></span> <span id="22" class="wrd tagcloud6"><a>svn</a></span> <span id="23" class="wrd tagcloud7"><a>wordpress</a></span> </div>
+                    <!-- HTML Tag Cloud -->
+                    <div id="htmltagcloud"> 
+                        <span id="0" class="wrd tagcloud6"><a>ajax</a></span>
+                        <span id="1" class="wrd tagcloud0"><a>apache</a></span>
+                        <span id="2" class="wrd tagcloud6"><a>codeigniter</a></span>
+                        <span id="3" class="wrd tagcloud10"><a>css</a></span>
+                        <span id="4" class="wrd tagcloud6"><a>css3</a></span>
+                        <span id="5" class="wrd tagcloud3"><a>git</a></span>
+                        <span id="6" class="wrd tagcloud10"><a>html</a></span>
+                        <span id="7" class="wrd tagcloud4"><a>html5</a></span>
+                        <span id="8" class="wrd tagcloud0"><a>iis</a></span>
+                        <span id="9" class="wrd tagcloud10"><a>javascript</a></span>
+                        <span id="10" class="wrd tagcloud6"><a>joomla</a></span>
+                        <span id="11" class="wrd tagcloud10"><a>jquery</a></span>
+                        <span id="12" class="wrd tagcloud3"><a>Shopify</a></span>
+                        <span id="13" class="wrd tagcloud6"><a>Ajax</a></span>
+                        <span id="14" class="wrd tagcloud6"><a>json</a></span>
+                        <span id="15" class="wrd tagcloud5"><a>LAMP</a></span>
+                        <span id="16" class="wrd tagcloud6"><a>mvc</a></span>
+                        <span id="17" class="wrd tagcloud6"><a>mysql</a></span>
+                        <span id="18" class="wrd tagcloud6"><a>oop</a></span>
+                        <span id="19" class="wrd tagcloud7"><a>photoshop</a></span>
+                        <span id="20" class="wrd tagcloud3"><a>Ecommerce</a></span>
+                        <span id="21" class="wrd tagcloud10"><a>php</a></span>
+                        <span id="22" class="wrd tagcloud3"><a>rest</a></span>
+                        <span id="23" class="wrd tagcloud6"><a>seo</a></span>
+                        <span id="24" class="wrd tagcloud0"><a>soap</a></span>
+                        <span id="25" class="wrd tagcloud6"><a>Subversion</a></span>
+                        <span id="26" class="wrd tagcloud7"><a>wordpress</a></span>
+                        <span id="27" class="wrd tagcloud3"><a>Drupal</a></span>
+                    </div>
                     <!-- end tag cloud : generated by TagCrowd.com : please keep this notice -->
 
                     </div>
