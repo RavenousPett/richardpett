@@ -52,9 +52,9 @@
 
                             <div class="slider-wrapper theme-default">
                                 <div id="slider" class="nivoSlider">
-                                    <a href="http://dev7studios.com"><img src="images/up.jpg" data-thumb="images/up.jpg" alt="" title="This is an example of a caption" /></a>
-                                    <img src="images/walle.jpg" data-thumb="images/walle.jpg" alt="" />
-                                    <img src="images/nemo.jpg" data-thumb="images/nemo.jpg" alt="" title="#htmlcaption" />
+                                    <img src="images/be-delicious.jpg" data-thumb="images/be-delicious.jpg" alt="" title="DKNY - Games, competitions and more for the UK website." />
+                                    <img src="images/asterion.jpg" data-thumb="images/asterion.jpg" alt="" title="Asterion - A fully responsive ecommerce site built in shopify."/>
+                                    <img src="images/cisco.jpg" data-thumb="images/cisco.jpg" alt="" title="Cisco - Interactive infographic to help businesses in the run up to the 2012 Olympic Games." />
                                 </div>
                                 <div id="htmlcaption" class="nivo-html-caption">
                                     <strong>This</strong> is an example of a <em>HTML</em> caption with <a href="#">a link</a>. 
@@ -198,8 +198,8 @@
                     {
                     // boxCols: 10, // For box animations
                     // boxRows: 10,
-                    effect: 'sliceDownRight',
-                    pauseTime: 4500,
+                    effect: 'boxRainReverse',
+                    pauseTime: 5500,
                     }
                 );
             });
