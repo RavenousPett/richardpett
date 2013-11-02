@@ -198,7 +198,7 @@
                     {
                     // boxCols: 10, // For box animations
                     // boxRows: 10,
-                    effect: 'boxRainReverse',
+                    effect: 'fade',
                     pauseTime: 5500,
                     }
                 );
