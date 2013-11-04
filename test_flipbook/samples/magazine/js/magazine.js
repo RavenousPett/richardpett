@@ -271,7 +271,8 @@ function resizeViewport() {
 	if (marginTop<0) {
 		$('.thumbnails').css({height:1});
 	} else {
-		$('.thumbnails').css({height: boundH});
+		// dont show the thumbnails at all
+		// $('.thumbnails').css({height: boundH});
 		$('.thumbnails > div').css({marginTop: marginTop});
 	}
 
