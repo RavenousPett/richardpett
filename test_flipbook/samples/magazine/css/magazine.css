@@ -385,3 +385,26 @@ body{
 	bottom:0;
 	width:100%;
 }
+
+/*Moile Specific Styles*/
+.mobile .next-button, .mobile .previous-button{
+	/*display: block;*/
+	background-image:url(../pics/arrows.png);
+	background-repeat: no-repeat;
+	background-color:rgba(0,0,0, 0.2);
+	width: 50px;
+}
+
+.mobile .next-button{
+	background-position:-26px 284px;
+	right: -50px;
+}
+
+.mobile .previous-button{
+	background-position: 9px 0px;
+	left: -50px;
+}
+
+.mobile .magazine{
+	overflow: visible!important;
+}
