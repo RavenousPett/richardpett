@@ -6,7 +6,8 @@
 	-ms-border-radius:15px 0 0 15px;
 	-o-border-radius:15px 0 0 15px;
 	border-radius:15px 0 0 15px;
-	background-position: -4px 0px;
+	/*having to use !important because we use JavaScript to set the bg position again, and the page has not always rendered in time*/
+	background-position: -4px 0px!important;
 }
 
 .magazine-viewport .previous-button{
@@ -17,12 +18,11 @@
 	-ms-border-radius:0 15px 15px 0;
 	-o-border-radius:0 15px 15px 0;
 	border-radius:0 15px 15px 0;
-	background-position: -38px 0px;
+	background-position: -38px 0px!important;
 
 }
 
 .mobile .magazine-viewport .next-button{
-	/*having to use !important because we use JavaScript to set the bg position again, and the page has not always rendered in time*/
 	background-position:9px 284px!important;
 	left: -50px;
 }
