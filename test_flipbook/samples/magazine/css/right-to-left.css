@@ -20,3 +20,19 @@
 	background-position: -38px 0px;
 
 }
+
+.mobile .magazine-viewport .next-button{
+	/*having to use !important because we use JavaScript to set the bg position again, and the page has not always rendered in time*/
+	background-position:9px 284px!important;
+	left: -50px;
+}
+
+.mobile .magazine-viewport .previous-button{
+	background-position:-26px 284px!important;
+	right: -50px;
+}
+
+.mobile div.shadow{
+	/* stops the button being clickable */
+	/*display: none;*/
+}
