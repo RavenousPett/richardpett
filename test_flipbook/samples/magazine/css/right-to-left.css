@@ -23,12 +23,12 @@
 }
 
 .mobile .magazine-viewport .next-button{
-	background-position:9px 284px!important;
+	background-position:9px 50%!important;
 	left: -50px;
 }
 
 .mobile .magazine-viewport .previous-button{
-	background-position:-26px 284px!important;
+	background-position:-26px 50%!important;
 	right: -50px;
 }
 
